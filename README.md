@@ -1,16 +1,31 @@
-### Hi there 👋
+## Hey there, Akash here ! 👋
+I'm a 4th year CSE student.
 
-<!--
-**Akash09-ak/Akash09-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akash09-ak&label=Views&color=blue&style=plastic" alt="Akash09-ak" /> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contacts:
+[![linkedin badge](https://img.shields.io/badge/Akash-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/akash-kukreti-71504a182)
+[![twitter badge](https://img.shields.io/badge/@Akashkukreti13-30302f?style=flat&logo=twitter)](https://www.twitter.com/Akashkukreti13)
+[![telegram badge](https://img.shields.io/badge/Akmaniax-30302f?style=flat&logo=telegram)](https://t.me/Akmaniax)
+
+
+
+![Akash's github stats](https://github-readme-stats.vercel.app/api?username=Akash09-ak&theme=tokyonight)
+
+
+
+### Languages & Technologies:
+
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+
+
+
+<a href="https://github.com/Akash09-ak">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash09-ak&theme=dark&hide_langs_below=1" />
+</a>
